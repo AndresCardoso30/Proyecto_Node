@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "./img/image1.jpg",
+    "description": "Recomendación de páginas para estudiar Python",
+    "content": "Python es un lenguaje de programación versátil y popular que atrae a estudiantes y desarrolladores de todo el mundo. En este blog, exploraremos algunas de las mejores páginas web para aprender Python, desde tutoriales interactivos hasta proyectos prácticos. Descubre recursos valiosos que te ayudarán a dominar este poderoso lenguaje de programación y avanzar en tu carrera como desarrollador."
+  },
+  {
+    "id": 2,
+    "image": "./img/image2.jpg",
+    "description": "Creo app para conectar escritores de todo el mundo",
+    "content": "La escritura es una forma de expresión que trasciende fronteras. En este blog, comparto mi experiencia creando una aplicación única diseñada para conectar a escritores de diversas culturas y geografías. Explora cómo la tecnología puede unir a creativos de todo el mundo, fomentando la colaboración y la inspiración. ¡Descubre cómo tu próxima colaboración podría estar a solo un clic de distancia!"
+  },
+  {
+    "id": 3,
+    "image": "./img/image3.png",
+    "description": "¿Por qué entrar a un Bootcamp es ideal para desarrolladores junior?",
+    "content": "Para los desarrolladores junior, dar el salto al mundo laboral puede ser desafiante. En este blog, analizamos las razones por las cuales un Bootcamp de programación puede ser la puerta de entrada perfecta a la industria tecnológica. Desde la inmersión en proyectos del mundo real hasta la mentoría personalizada, descubre cómo un Bootcamp puede acelerar tu desarrollo profesional y prepararte para el éxito en el mundo del desarrollo de software."
+  },
+  {
+    "id": 4,
+    "image": "/img/imagen4.jpg",
+    "description": "Los mejores tutoriales para introducirse en el desarrollo de aplicaciones moviles.",
+    "content": "Pagina de prueba"
+  },
+  {
+    "id": 5,
+    "image": "/img/imagen5.jpg",
+    "description": "El diseño y su integración al desarrollo de web únicas",
+    "content": "Prueba 2"
+  }
+]
